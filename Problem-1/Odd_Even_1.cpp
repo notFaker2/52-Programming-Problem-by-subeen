@@ -16,4 +16,5 @@ int main(){
     while(n--){
         solve();
     }
+    return 0;
 }
