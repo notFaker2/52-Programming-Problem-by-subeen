@@ -1,2 +1,2 @@
-# 52-Programming-Problem-by-subin
-Ans. of 52-Programming-Problems
+# 52-Programming-Problem-by-subeen
+solve of 52-Programming-Problems
